@@ -1,6 +1,6 @@
 # 🐍 Python Functions — Explained for Beginners
 
-This guide contains **simple and practical examples** of Python functions from W3Schools, with extra explanations for beginners.  
+This guide contains **simple and practical examples** of Python functions for beginners, with extra explanations for beginners.  
 Each section explains **what the code does**, **why it’s useful**, and shows an **example** you can test yourself.
 
 ---
@@ -182,7 +182,7 @@ Instead of repeating the same calculation, you define it once and call it whenev
 ## 📎 Author
 👩‍💻 **Created by:** Rezvan Panah  
 📅 **Year:** 2025  
-💬 **Language:** Python 3  
+💬 **Language:** Python 3.10  
 🎯 **Purpose:** Teaching Python functions in a clear and beginner-friendly way.
 
 ---
